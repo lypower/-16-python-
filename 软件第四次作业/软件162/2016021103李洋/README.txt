@@ -1,1 +1,7 @@
-请上传代码和截图!
+x=int(input("请输入你的年龄:"))
+if 15<x<30: print('学习')
+elif 30<x<40: print('成家立业')
+elif 40<x<50: print('不惑')
+elif 50<x<60: print('知天命')
+elif 60<x<70: print('耳顺')
+elif x>70: print('从心所欲，不逾矩')
